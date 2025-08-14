@@ -8,7 +8,7 @@ A perfect blend of learning and fun!
 
 ## 🎬 Demo
 
-![U.S. States Game Demo](demo.gif)
+![U.S. States Game Demo](assets/demo.gif)
 
 ---
 
